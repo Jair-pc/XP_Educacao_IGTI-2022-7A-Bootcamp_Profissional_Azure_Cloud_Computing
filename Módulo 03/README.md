@@ -1,73 +1,133 @@
-# Módulo 1 - Fundamentos
+# Módulo 3 - Soluções para Desenvolvimento e Ferramentas de Gerenciamento
 ## Objetivos:
 
-`Voltar ao Início:` [Acesse aqui](https://github.com/Jair-pc/Bootcamp-Engenheiro_de_Dados-IGTI)
+`Voltar ao Início:` [Acesse aqui](https://github.com/Jair-pc/XP_Educacao_IGTI-2022-7A-Bootcamp_Profissional_Azure_Cloud_Computing)
 </br></br>
 
-Fundamentos em Engenharia de Dados
+Soluções para Desenvolvimento e Ferramentas de Gerenciamento
 
  
-**Capítulo 1.** Conceitos fundamentais de Big Data:
 
-Dados, fontes de dados e tipos de dados
-Conceito e características de big data
-Web semântica
-Dados abertos e dados interligados
-Ontologias
-Pipeline de dados do Big Data e de Engenharia de Dados
-Visão geral dos principais tipos de análise de dados
+Capítulo 1 - Azure DevOps
+
+1.1 - O que é Azure Devops
+
+1.2 - Tipos de Assinatura
+
+1.3 - Criando uma Conta
+
  
 
-**Capítulo 2.** Modelagem de Dados
+Capítulo 2 - Controle de Versão 
 
-Fundamentos de banco de dados
-Modelo de dados conceitual
-Construção do MER (Modelo entidade-relacionamento)
-Modelo Relacional (Modelo de dados lógico)
-Sistemas gerenciadores de bancos de dados relacionais
-Modelo de dados físico
-Instalação do MySQL Workbench e MySQL Server
-Modelagem de dados utilizando o MySQL Workbench
+2.1 Benefícios de se usar Controle de Versão
+
+2.2 Introdução ao Azure Repos
+
  
 
-**Capítulo 3.** Linguagem SQL
+Capítulo 3 - Azure Pipelines
 
-Introdução à Linguagem SQL
-Linguagem de Definição de Dados (DDL)
-Linguagem de Manipulação de Dados (DML)
-Linguagem de Controle de Acesso a Dados (DCL)
-Ferramenta DBeaver
-Banco de dados relacional na nuvem - Amazon RDB
+3.1 Azure Pipelines
+
+3.2
+
+ 
+
+Capítulo 4 - Azure DevTest Labs
+
+4.1 Azure DevTest Labs
+
+4.2 Demo − Parte 1
+
+4.3 Demo − Parte 2
+
+ 
+
+Capítulo 5 - Ferramentas para Gerenciamento e Configuração de Ambientes no Azure
+
+5.1 Ferramentas para gerenciamento e configuração de ambientes no Azure
+
+5.2 Demo 1 – Parte 1
+
+5.3 Demo 1 – Parte 2
+
+5.4 Demo 2 – Parte 1
+
+5.5 Demo 2 – Parte 2
+
+5.6 Demo 3 – Parte 1
+
+5.7 Demo 3 – Parte 2
+
+5.8 Demo 4 – Parte 1
+
+5.9 Demo 4 – Parte 2
+
+ 
+
+Capítulo 6 - Soluções para Infraestrutura como Código (IaC) no Azure
+
+6.1 Soluções para infraestrutura como código (IaC) no Azure
+
  
 
 Primeira Aula Interativa
 
-## Trabalho Prático: Modelagem Relacional e Linguagem SQL (DDL e DML)
+Trabalho Prático
 
  
 
-**Capítulo 4.** Linguagem SQL: Linguagem de consulta de Dados (DQL)
+Capítulo 7 - Azure App Service
 
-Selecionando Dados (SELECT FROM, DISTINCT, ORDER BY, Operadores Aritméticos, Concatenação)
-Filtrando Dados (WHERE, LIKE, BETWEEN, IS NULL, IS NOT NULL)
-Funções de Agregação e Agrupamentos de Dados (COUNT, MIN, MAX, AVG, SUM, GROUP BY, HAVING)
-Prática: Consultando SQL utilizando apenas uma tabela
-Consultas com múltiplas tabelas (JOIN, INNER JOIN, CROSS JOIN e OUTER JOIN)
-Prática MySQL: Consultas com múltiplas tabelas
-Consultas aninhadas (IN, EXIST)
-Prática: Prática: Consulta SQL utilizando o DQL
-Observação: As aulas práticas alternam entre utilizar o MySQL Workbench e o DBeaver.
+7.1 O que é Azure App Service
+
+7.2 Demo 1
+
+7.3 Demo 2
 
  
 
-**Capítulo 5.** Data warehouse e modelagem dimensional
+Capítulo 8 Azure Functions
 
-Introdução ao data warehousing
-Online Analytical Processing
-Modelo dimensional de dados
-Prática: Modelo dimensional de dados
+8.1 O que é Serverles
+
+8.2 Demo
+
+ 
+
+Capítulo 9 - Logic Apps
+
+9.1 O que são logic apps
+
+9.2 Demo
+
+ 
+
+Capítulo 10 - IoT Hub
+
+10.1 Conceitos básicos sobre IoT Hub
+
+ 
+
+Capítulo 11 - IoT Central
+
+11.1 Introdução ao IoT Central
+
+ 
+
+Capítulo 12 - Azure Sphere
+
+12.1 O que é Azure Sphere
+
+ 
+
+Capítulo 13 - Power Platform
+
+13.1 Power Apps
+
  
 
 Segunda Aula Interativa
 
-## Desafio: Atividade de modelagem e uso da linguagem SQL.
+Desafio
