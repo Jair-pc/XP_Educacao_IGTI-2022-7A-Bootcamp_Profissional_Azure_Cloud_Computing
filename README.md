@@ -1,10 +1,4 @@
-[![](https://github.com/masedos/Bootcamp-Engenharia-de-Dados/blob/main/logo.png)](https://www.linkedin.com/in/jairengdados/)
-
-[![](https://img.shields.io/badge/made%20by-jair-blue)](https://www.linkedin.com/in/jairengdados/)
-![GitHub repo size](https://img.shields.io/badge/-engenheiro%20de%20dados-green)
-
-
-`Certificado:` [Acesse aqui](https://github.com/Jair-pc/Bootcamp-Engenheiro_de_Dados-IGTI/blob/master/Certificado.pdf)
+`Certificado:` [Acesse aqui](https://github.com/Jair-pc/XP_Educacao_IGTI-2022-7A-Bootcamp_Profissional_Azure_Cloud_Computing/blob/master/Certificado.pdf)
 </br></br>
 `Duração:` 2 meses, 148 horas
 </br></br>
