@@ -5,123 +5,75 @@
 `Voltar ao Início:` [Acesse aqui](https://github.com/Jair-pc/XP_Educacao_IGTI-2022-7A-Bootcamp_Profissional_Azure_Cloud_Computing)
 </br></br>
 
-Fundamentos em Engenharia de Dados
 
  
-Serviços de Armazenamento, Banco de Dados e Analytics
-
- 
-
-Capítulo 1 – Introdução à Plataforma de Dados do Azure
-
-1.0. Apresentação do Professor e da Disciplina
-
-1.1. Tipos de Profissionais de Dados
-
-1.2. Tipos de Dados
-
-1.3. Modalidades de Serviços para Armazenamento de Dados
-
-1.4. Plataforma de Dados do Azure
-
-1.5. Escalabilidade na Nuvem
-
-1.6. Cargas de Trabalho
+Introdução ao Azure e Infraestrutura Básica de TI como Serviço
 
  
 
-Capítulo 2 – Armazenamento de Dados
+Capítulo 0. Apresentação do Professor e do Módulo 
 
-2.1. Storage Account
-
-2.2. Criando uma Storage Account
-
-2.3. Azure Files
-
-2.4. Criando e Usando Azure Files
-
-2.5. Ingestão de Dados
-
-2.6. Azure Table Storage
-
-2.7. Criando e Usando Azure Table Storage
-
-2.8. Azure Blob Storage
-
-2.9. Criando e Usando Azure Blob Storage
-
-2.10. Data Lake Storage Gen2
-
-2.11. Criando e Usando um Data Lake Storage Gen2
+0.1. Apresentação do Professor.  
+0.2. Apresentação do Módulo.  
+0.3. Como aproveitar ao máximo? 
 
  
 
-Capítulo 3 – Armazenamento de Dados Relacionais no Azure
+Capítulo 1. Introdução ao Azure 
 
-3.1. Bancos de Dados Relacionais em IaaS
-
-3.2. Demo Bancos de Dados Relacionais em IaaS
-
-3.3. Azure SQL Database Managed Instance
-
-3.4. Demo Azure SQL Database Managed Instance
-
-3.5. Azure SQL Database
-
-3.6. Demo Azure SQL Database
-
-3.7. Bancos de Dados Open Source no Azure
+1.1. O que é o Azure?  
+1.2. Princípios Básicos de Nuvem.  
+1.3. Modelos de Serviços em Nuvem.  
+1.4. Portal Azure.  
+1.5. Azure Marketplace. 
 
  
 
-Capítulo 4 – Armazenamento de Dados Não Relacionais no Azure
+Capítulo 2. Serviços do Azure 
 
-4.1. Bancos de Dados Não Relacionais no Azure
-
-4.2. Azure Cosmos DB
-
-4.3. Demo Azure Cosmos DB
-
- 
-
-Primeira Aula Interativa
-
-Trabalho Prático
+2.1. Serviços do Azure – Computação, Redes, Armazenamento e Bancos de Dados.  
+2.2. Demo – Explorando o portal Azure e implantando uma conta de armazenamento.  
+2.3. Serviços do Azure – Aplicações, Processamento de dados, Inteligência Artificial e DevOps. 
+2.4. Demo – Implantando um serviço de processamento de dados, o Azure Data Factory.  
 
  
 
-Capítulo 5 – Soluções para Big Data & Analytics
+Capítulo 3. Introdução a Contas do Azure  
 
-5.1. Introdução à Big Data
-
-5.2. Introdução ao HDInsight
-
-5.3. Aprovisionando um Ambiente do HDInsight
-
-5.4. Introdução ao Azure DataBricks
-
-5.5. Demonstração do Azure DataBricks
-
-5.6. Introdução ao Azure Synapse Analytics
-
-5.7. Demonstração do Azure Synapse Analytics
+3.1. Contas do Azure, Subscriptions, Cloud Adoption Framework CAF e Criando conta gratuita no Azure.  
+3.2. Demo - Criando conta gratuita no Azure. 
 
  
 
-Capítulo 6 – Soluções para Pipeline de Dados
+Capítulo 4. Infraestrutura Global do Azure 
 
-6.1. Introdução ao Azure Data Factory
-
-6.2. Criando um Pipeline de Dados com o Azure Data Factory
-
- 
-
-Capítulo 7 – Soluções de Machine Learning
-
-7.1. Overview do Azure Machine Learning
+4.1. Regiões do Azure, Zonas de Disponibilidade, Usando AZs em Aplicações e Regiões Pares do Azure.  
+4.2. Demo – Escolhendo uma região do Azure. 
 
  
 
-Segunda Aula Interativa
+Trabalho Prático do Módulo 1
 
-Desafio
+ 
+
+Capítulo 5. Serviços de Computação Básica  
+
+5.1. Computação Básica do Azure, Virtual Machines, Containers e Windows Virtual Desktop. 
+5.2. Demo – Implantando uma Virtual Machine. 
+
+ 
+
+Capítulo 6. Serviços de Redes do Azure 
+
+6.1. Azure Virtual Network, O Azure é aberto para Internet?  Conexões entre On Premisses e Azure e Conexões entre redes virtuais.  
+6.2. Demo – Implementando uma vNet no Azure. 
+
+ 
+
+Capítulo 7. Fechamento 
+
+7.1. Conclusão. 
+
+ 
+
+Desafio do Módulo 1
