@@ -7,7 +7,7 @@
 
 
  
-** Capítulo 0 **. Apresentação do Professor e do Módulo 
+**Capítulo 0**. Apresentação do Professor e do Módulo 
 
 0.1. Apresentação do Professor.  
 0.2. Apresentação do Módulo.  
@@ -48,7 +48,7 @@
 
  
 
-#Trabalho Prático do Módulo 1
+# Trabalho Prático do Módulo 1
 
  
 
@@ -72,4 +72,4 @@
 
  
 
-#Desafio do Módulo 1
+# Desafio do Módulo 1
