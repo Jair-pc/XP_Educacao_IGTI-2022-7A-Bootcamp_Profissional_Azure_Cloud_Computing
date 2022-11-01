@@ -5,11 +5,7 @@
 </br></br>
 
  
-Serviços de Armazenamento, Banco de Dados e Analytics
-
- 
-
-Capítulo 1 – Introdução à Plataforma de Dados do Azure
+**Capítulo 1** – Introdução à Plataforma de Dados do Azure
 
 1.0. Apresentação do Professor e da Disciplina
 
@@ -27,7 +23,7 @@ Capítulo 1 – Introdução à Plataforma de Dados do Azure
 
  
 
-Capítulo 2 – Armazenamento de Dados
+**Capítulo 2** – Armazenamento de Dados
 
 2.1. Storage Account
 
@@ -53,7 +49,7 @@ Capítulo 2 – Armazenamento de Dados
 
  
 
-Capítulo 3 – Armazenamento de Dados Relacionais no Azure
+**Capítulo 3** – Armazenamento de Dados Relacionais no Azure
 
 3.1. Bancos de Dados Relacionais em IaaS
 
@@ -71,7 +67,7 @@ Capítulo 3 – Armazenamento de Dados Relacionais no Azure
 
  
 
-Capítulo 4 – Armazenamento de Dados Não Relacionais no Azure
+**Capítulo 4** – Armazenamento de Dados Não Relacionais no Azure
 
 4.1. Bancos de Dados Não Relacionais no Azure
 
@@ -81,13 +77,11 @@ Capítulo 4 – Armazenamento de Dados Não Relacionais no Azure
 
  
 
-Primeira Aula Interativa
-
-Trabalho Prático
+# Trabalho Prático
 
  
 
-Capítulo 5 – Soluções para Big Data & Analytics
+**Capítulo 5** – Soluções para Big Data & Analytics
 
 5.1. Introdução à Big Data
 
@@ -105,7 +99,7 @@ Capítulo 5 – Soluções para Big Data & Analytics
 
  
 
-Capítulo 6 – Soluções para Pipeline de Dados
+**Capítulo 6** – Soluções para Pipeline de Dados
 
 6.1. Introdução ao Azure Data Factory
 
@@ -113,12 +107,10 @@ Capítulo 6 – Soluções para Pipeline de Dados
 
  
 
-Capítulo 7 – Soluções de Machine Learning
+**Capítulo 7** – Soluções de Machine Learning
 
 7.1. Overview do Azure Machine Learning
 
  
 
-Segunda Aula Interativa
-
-Desafio
+# Desafio
