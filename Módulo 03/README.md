@@ -4,11 +4,8 @@
 `Voltar ao Início:` [Acesse aqui](https://github.com/Jair-pc/XP_Educacao_IGTI-2022-7A-Bootcamp_Profissional_Azure_Cloud_Computing)
 </br></br>
 
-Soluções para Desenvolvimento e Ferramentas de Gerenciamento
 
- 
-
-Capítulo 1 - Azure DevOps
+**Capítulo 1** - Azure DevOps
 
 1.1 - O que é Azure Devops
 
@@ -18,7 +15,7 @@ Capítulo 1 - Azure DevOps
 
  
 
-Capítulo 2 - Controle de Versão 
+**Capítulo 2** - Controle de Versão 
 
 2.1 Benefícios de se usar Controle de Versão
 
@@ -26,7 +23,7 @@ Capítulo 2 - Controle de Versão
 
  
 
-Capítulo 3 - Azure Pipelines
+**Capítulo 3** - Azure Pipelines
 
 3.1 Azure Pipelines
 
@@ -34,7 +31,7 @@ Capítulo 3 - Azure Pipelines
 
  
 
-Capítulo 4 - Azure DevTest Labs
+**Capítulo 4** - Azure DevTest Labs
 
 4.1 Azure DevTest Labs
 
@@ -44,7 +41,7 @@ Capítulo 4 - Azure DevTest Labs
 
  
 
-Capítulo 5 - Ferramentas para Gerenciamento e Configuração de Ambientes no Azure
+**Capítulo 5** - Ferramentas para Gerenciamento e Configuração de Ambientes no Azure
 
 5.1 Ferramentas para gerenciamento e configuração de ambientes no Azure
 
@@ -66,19 +63,17 @@ Capítulo 5 - Ferramentas para Gerenciamento e Configuração de Ambientes no Az
 
  
 
-Capítulo 6 - Soluções para Infraestrutura como Código (IaC) no Azure
+**Capítulo 6** - Soluções para Infraestrutura como Código (IaC) no Azure
 
 6.1 Soluções para infraestrutura como código (IaC) no Azure
 
  
 
-Primeira Aula Interativa
-
-Trabalho Prático
+# Trabalho Prático
 
  
 
-Capítulo 7 - Azure App Service
+**Capítulo 7** - Azure App Service
 
 7.1 O que é Azure App Service
 
@@ -88,7 +83,7 @@ Capítulo 7 - Azure App Service
 
  
 
-Capítulo 8 Azure Functions
+**Capítulo 8** - Azure Functions
 
 8.1 O que é Serverles
 
@@ -96,7 +91,7 @@ Capítulo 8 Azure Functions
 
  
 
-Capítulo 9 - Logic Apps
+**Capítulo 9** - Logic Apps
 
 9.1 O que são logic apps
 
@@ -104,30 +99,28 @@ Capítulo 9 - Logic Apps
 
  
 
-Capítulo 10 - IoT Hub
+**Capítulo 10** - IoT Hub
 
 10.1 Conceitos básicos sobre IoT Hub
 
  
 
-Capítulo 11 - IoT Central
+**Capítulo 11** - IoT Central
 
 11.1 Introdução ao IoT Central
 
  
 
-Capítulo 12 - Azure Sphere
+**Capítulo 12** - Azure Sphere
 
 12.1 O que é Azure Sphere
 
  
 
-Capítulo 13 - Power Platform
+**Capítulo 13** - Power Platform
 
 13.1 Power Apps
 
  
 
-Segunda Aula Interativa
-
-Desafio
+# Desafio
