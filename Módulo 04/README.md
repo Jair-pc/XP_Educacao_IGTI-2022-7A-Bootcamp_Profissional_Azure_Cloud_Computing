@@ -1,73 +1,83 @@
-# Módulo 1 - Fundamentos
+# Módulo 4 - Soluções de Segurança, Governança, Compliance e Migração
 ## Objetivos:
 
-`Voltar ao Início:` [Acesse aqui](https://github.com/Jair-pc/Bootcamp-Engenheiro_de_Dados-IGTI)
+`Voltar ao Início:` [Acesse aqui](https://github.com/Jair-pc/XP_Educacao_IGTI-2022-7A-Bootcamp_Profissional_Azure_Cloud_Computing)
 </br></br>
 
-Fundamentos em Engenharia de Dados
-
- 
-**Capítulo 1.** Conceitos fundamentais de Big Data:
-
-Dados, fontes de dados e tipos de dados
-Conceito e características de big data
-Web semântica
-Dados abertos e dados interligados
-Ontologias
-Pipeline de dados do Big Data e de Engenharia de Dados
-Visão geral dos principais tipos de análise de dados
- 
-
-**Capítulo 2.** Modelagem de Dados
-
-Fundamentos de banco de dados
-Modelo de dados conceitual
-Construção do MER (Modelo entidade-relacionamento)
-Modelo Relacional (Modelo de dados lógico)
-Sistemas gerenciadores de bancos de dados relacionais
-Modelo de dados físico
-Instalação do MySQL Workbench e MySQL Server
-Modelagem de dados utilizando o MySQL Workbench
- 
-
-**Capítulo 3.** Linguagem SQL
-
-Introdução à Linguagem SQL
-Linguagem de Definição de Dados (DDL)
-Linguagem de Manipulação de Dados (DML)
-Linguagem de Controle de Acesso a Dados (DCL)
-Ferramenta DBeaver
-Banco de dados relacional na nuvem - Amazon RDB
- 
-
-Primeira Aula Interativa
-
-## Trabalho Prático: Modelagem Relacional e Linguagem SQL (DDL e DML)
+Soluções de Segurança, Governança, Compliance e Migração
 
  
 
-**Capítulo 4.** Linguagem SQL: Linguagem de consulta de Dados (DQL)
+Capítulo 1.     Identidade, Autenticação e Controle de Acesso
 
-Selecionando Dados (SELECT FROM, DISTINCT, ORDER BY, Operadores Aritméticos, Concatenação)
-Filtrando Dados (WHERE, LIKE, BETWEEN, IS NULL, IS NOT NULL)
-Funções de Agregação e Agrupamentos de Dados (COUNT, MIN, MAX, AVG, SUM, GROUP BY, HAVING)
-Prática: Consultando SQL utilizando apenas uma tabela
-Consultas com múltiplas tabelas (JOIN, INNER JOIN, CROSS JOIN e OUTER JOIN)
-Prática MySQL: Consultas com múltiplas tabelas
-Consultas aninhadas (IN, EXIST)
-Prática: Prática: Consulta SQL utilizando o DQL
-Observação: As aulas práticas alternam entre utilizar o MySQL Workbench e o DBeaver.
+Azure Active Directory
+Autenticação Multifator e SSO
+Azure Role Based Aceess Control
+ 
+
+Capítulo 2. Governança de Nuvem no Azure
+
+Estratégia de Governança de Assinaturas (Management Groups)
+Azure Tags
+Resouce Locks
+Azure Policy
+Azure Blueprints
+ 
+
+Capítulo 3. Segurança de Rede na Nuvem
+
+Network Security Groups (NSG)
+Azure Firewall
+DDOS Protection
+Backup
+Azure Dedicated Host
+ 
+
+Capítulo 4. Azure Key Vault
+
+Azure Key Vault – Keys
+Criptografia de Disco
+Azure Key Vault – Secrets
+Azure Key Vault – Certificates
+ 
+
+Trabalho Prático
 
  
 
-**Capítulo 5.** Data warehouse e modelagem dimensional
+Capítulo 5. Defesa em Profundidade, Security Center e Sentinel
 
-Introdução ao data warehousing
-Online Analytical Processing
-Modelo dimensional de dados
-Prática: Modelo dimensional de dados
+Conditional Access
+Identity Protection
+Azure Security Center
+Azure Sentinel
  
 
-Segunda Aula Interativa
+Capítulo 6. Azure Monitor
 
-## Desafio: Atividade de modelagem e uso da linguagem SQL.
+Log Analytics Workspace
+Application Insigts
+Azure Alerts
+ 
+
+Capítulo 7. Status de Serviço, Advisor e Compliance
+
+Azure Advisor
+Azure Service Health
+Compliance no Azure
+ 
+
+Capítulo 8. Migração – Estratégias e Ferramentas Nativas
+
+Estratégias de Migração
+Azure Migrate
+Azure Database migration Service
+Azure App Service migration assistant
+ 
+
+Capítulo 9. Azure Cloud Adoption Framework
+
+Azure Cloud Adoption Framework
+ 
+
+Desafio
