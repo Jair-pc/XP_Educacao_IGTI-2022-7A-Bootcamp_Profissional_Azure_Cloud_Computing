@@ -2,7 +2,7 @@
 </br></br>
 `Duração:` 2 meses, 148 horas
 </br></br>
-bootcamp: [https://www.xpeducacao.com.br/bootcamp/engenheiro-de-dados?evento=data_universe](https://www.xpeducacao.com.br/bootcamp/engenheiro-de-dados?evento=data_universe)]
+bootcamp: [https://www.xpeducacao.com.br/bootcamp/engenheiro-de-dados?evento=data_universe](https://www.xpeducacao.com.br/bootcamp/profissional-azure?evento=cloud_conference)]
 </br></br>
 
 
